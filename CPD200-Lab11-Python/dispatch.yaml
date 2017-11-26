@@ -1,0 +1,6 @@
+dispatch:
+  - url: "cpd200-nuggets.appspot.com/"
+    module: default
+      
+  - url: "*/tasks/*"
+    module: tasks   

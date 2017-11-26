@@ -1,0 +1,92 @@
+{
+  "extends" : "thirdParty.api",
+  "abstract" : false,
+  "root" : "https://cpd200-nuggets-java.appspot.com/_ah/api",
+  "name" : "helloworldendpoints",
+  "version" : "v1",
+  "defaultVersion" : false,
+  "discovery" : [ "PUBLIC" ],
+  "adapter" : {
+    "bns" : "https://cpd200-nuggets-java.appspot.com/_ah/spi",
+    "deadline" : 65.0,
+    "type" : "lily"
+  },
+  "auth" : {
+    "allowCookieAuth" : false
+  },
+  "frontendLimits" : {
+    "unregisteredUserQps" : -1,
+    "unregisteredQps" : -1,
+    "unregisteredDaily" : -1,
+    "rules" : [ ]
+  },
+  "cacheControl" : {
+    "type" : "no-cache",
+    "maxAge" : 0
+  },
+  "ownerDomain" : "nuggets.gae.google.com",
+  "ownerName" : "nuggets.gae.google.com",
+  "methods" : {
+    "helloworldendpoints.sayHelloByName" : {
+      "path" : "say_hellobyname/{name}",
+      "httpMethod" : "POST",
+      "authLevel" : "NONE",
+      "scopes" : [ "https://www.googleapis.com/auth/userinfo.email" ],
+      "audiences" : [ ],
+      "clientIds" : [ "292824132082.apps.googleusercontent.com" ],
+      "rosyMethod" : "com.google.gae.nuggets.endpoints.HelloWorldApi.say_hellobyname",
+      "request" : {
+        "parameters" : {
+          "name" : {
+            "type" : "string",
+            "required" : true
+          }
+        },
+        "body" : "empty"
+      },
+      "response" : {
+        "body" : "autoTemplate(backendResponse)"
+      }
+    },
+    "helloworldendpoints.sayHello" : {
+      "path" : "say_hello",
+      "httpMethod" : "POST",
+      "authLevel" : "NONE",
+      "scopes" : [ "https://www.googleapis.com/auth/userinfo.email" ],
+      "audiences" : [ ],
+      "clientIds" : [ "292824132082.apps.googleusercontent.com" ],
+      "rosyMethod" : "com.google.gae.nuggets.endpoints.HelloWorldApi.say_hello",
+      "request" : {
+        "body" : "empty"
+      },
+      "response" : {
+        "body" : "autoTemplate(backendResponse)"
+      }
+    }
+  },
+  "descriptor" : {
+    "schemas" : {
+      "Hello" : {
+        "id" : "Hello",
+        "type" : "object",
+        "properties" : {
+          "data" : {
+            "type" : "string"
+          }
+        }
+      }
+    },
+    "methods" : {
+      "com.google.gae.nuggets.endpoints.HelloWorldApi.say_hellobyname" : {
+        "response" : {
+          "$ref" : "Hello"
+        }
+      },
+      "com.google.gae.nuggets.endpoints.HelloWorldApi.say_hello" : {
+        "response" : {
+          "$ref" : "Hello"
+        }
+      }
+    }
+  }
+}

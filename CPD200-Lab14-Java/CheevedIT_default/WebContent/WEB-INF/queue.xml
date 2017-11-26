@@ -1,0 +1,8 @@
+<queue-entries>
+  <queue>
+    <name>statqueue</name>
+    <bucket-size>5</bucket-size>
+    <max-concurrent-requests>10</max-concurrent-requests>
+    <rate>1/s</rate>
+  </queue>
+</queue-entries>

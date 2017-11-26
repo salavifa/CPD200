@@ -1,0 +1,10 @@
+application: cpd200-nuggets
+version: tasks-001
+module: tasks
+runtime: python27
+api_version: 1
+threadsafe: true
+
+handlers:
+- url: /tasks/(.*)
+  script: tasks.app

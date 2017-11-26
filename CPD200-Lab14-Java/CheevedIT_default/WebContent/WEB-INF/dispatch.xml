@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dispatch-entries>
+  <dispatch>
+    <url>cpd200-nuggets-java.appspot.com/</url>
+    <module>default</module>
+  </dispatch>
+  <dispatch>
+    <url>*/tasks/*</url>
+    <module>tasks</module>
+  </dispatch>
+</dispatch-entries>

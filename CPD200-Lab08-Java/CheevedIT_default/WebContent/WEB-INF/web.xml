@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://java.sun.com/xml/ns/javaee" xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd" id="WebApp_ID" version="2.5">
+  <display-name>CheevedIT_default</display-name>
+  <security-constraint>
+    <web-resource-collection>
+      <web-resource-name>userOps</web-resource-name>
+      <url-pattern>/profile/*</url-pattern>
+    </web-resource-collection>
+    <auth-constraint>
+      <role-name>*</role-name>
+    </auth-constraint>
+  </security-constraint>
+  <security-constraint>
+    <web-resource-collection>
+      <web-resource-name>adminOps</web-resource-name>
+      <url-pattern>/admin/*</url-pattern>
+    </web-resource-collection>
+    <auth-constraint>
+      <role-name>admin</role-name>
+    </auth-constraint>
+  </security-constraint>
+  <servlet>
+    <servlet-name>CheeversServlet</servlet-name>
+    <servlet-class>com.nuggets.google.gae.cheevedit.CheeversServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>CheeversServlet</servlet-name>
+    <url-pattern>/cheevers/*</url-pattern>
+  </servlet-mapping>
+  <servlet>
+    <servlet-name>AchievementServlet</servlet-name>
+    <servlet-class>com.nuggets.google.gae.cheevedit.AchievementServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>AchievementServlet</servlet-name>
+    <url-pattern>/achievements/*</url-pattern>
+  </servlet-mapping>  
+  <servlet>
+    <servlet-name>Profile</servlet-name>
+    <jsp-file>/profile.jsp</jsp-file>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>Profile</servlet-name>
+    <url-pattern>/profile</url-pattern>
+  </servlet-mapping>
+  
+  <servlet>
+    <servlet-name>Admin</servlet-name>
+    <jsp-file>/admin.jsp</jsp-file>
+  </servlet>  
+  <servlet-mapping>
+    <servlet-name>Admin</servlet-name>
+    <url-pattern>/admin</url-pattern>
+  </servlet-mapping>
+
+  <welcome-file-list>
+    <welcome-file>home.jsp</welcome-file>
+  </welcome-file-list>
+
+</web-app>

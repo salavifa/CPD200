@@ -1,0 +1,8 @@
+cron:
+- description: Leaderboards
+  url: /tasks/GenerateLeaderboardStats  
+  schedule: every 10 minutes
+  
+- description: System Stats
+  url: /tasks/GenerateSystemStats  
+  schedule: every 1 hours 

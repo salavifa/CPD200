@@ -1,0 +1,12 @@
+<cronentries>
+  <cron>
+    <url>/tasks/stats?action=generateleaderboardstats</url>
+    <description>Generate Leaderboard Stats every 10 minutes</description>
+    <schedule>every 10 minutes</schedule>    
+  </cron>
+  <cron>
+    <url>/tasks/stats?action=generatesystemstats</url>
+    <description>Generate System Stats every 1 hour</description>
+    <schedule>every 1 hours</schedule>    
+  </cron>
+</cronentries>

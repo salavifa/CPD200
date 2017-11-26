@@ -1,0 +1,15 @@
+<datastore-indexes autoGenerate="true">
+  <datastore-index source="auto" ancestor="false" kind="Achievement">
+    <property direction="desc" name="numLiked"/>
+    <property direction="desc" name="score"/>
+  </datastore-index>
+  <datastore-index source="auto" ancestor="false" kind="Achievement">
+    <property direction="asc" name="verified"/>
+    <property direction="desc" name="created"/>
+  </datastore-index>
+  <datastore-index source="auto" ancestor="false" kind="Achievement">
+    <property direction="asc" name="contributor"/>
+    <property direction="asc" name="verified"/>
+    <property direction="desc" name="created"/>
+  </datastore-index>
+</datastore-indexes>

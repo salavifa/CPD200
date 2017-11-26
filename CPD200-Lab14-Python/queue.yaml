@@ -1,0 +1,5 @@
+queue:
+- name: statqueue
+  rate: 1/s
+  bucket_size: 5
+  max_concurrent_requests: 10

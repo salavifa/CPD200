@@ -1,0 +1,557 @@
+!SESSION 2016-07-19 11:05:29.738 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.version=1.7.0_80
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2016-07-19 11:06:38.204
+!MESSAGE Warning: EGit couldn't detect the installation path "gitPrefix" of native Git. Hence EGit can't respect system level
+Git settings which might be configured in ${gitPrefix}/etc/gitconfig under the native Git installation directory.
+The most important of these settings is core.autocrlf. Git for Windows by default sets this parameter to true in
+this system level configuration. The Git installation location can be configured on the
+Team > Git > Configuration preference page's 'System Settings' tab.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.egit.ui 2 0 2016-07-19 11:06:38.204
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\cpd200'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY com.android.ide.eclipse.adt 1 0 2016-07-19 11:26:39.843
+!MESSAGE No valid Android XML Editor Delegate found for file /CheevedIT_default/WebContent/WEB-INF/appengine-web.xml [Res null, type null]
+
+!ENTRY com.android.ide.eclipse.adt 1 0 2016-07-19 11:28:53.748
+!MESSAGE No valid Android XML Editor Delegate found for file /cheevedIT_tasks/WebContent/WEB-INF/appengine-web.xml [Res null, type null]
+
+!ENTRY com.android.ide.eclipse.adt 1 0 2016-07-19 11:33:54.926
+!MESSAGE No valid Android XML Editor Delegate found for file /CheevedIT_default/WebContent/WEB-INF/appengine-web.xml [Res null, type null]
+
+!ENTRY com.android.ide.eclipse.adt 1 0 2016-07-19 11:34:09.871
+!MESSAGE No valid Android XML Editor Delegate found for file /CheevedIT_default/WebContent/WEB-INF/appengine-web.xml [Res null, type null]
+
+!ENTRY com.android.ide.eclipse.adt 1 0 2016-07-19 11:34:35.655
+!MESSAGE No valid Android XML Editor Delegate found for file /CheevedIT_default/WebContent/WEB-INF/appengine-web.xml [Res null, type null]
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2016-07-19 11:34:50.828
+!MESSAGE No projects found for [C:\CPD200\CPD200-Lab03-Java\CheevedIT_default\WebContent\WEB-INF\appengine-web.xml]
+
+!ENTRY com.android.ide.eclipse.adt 1 0 2016-07-19 11:34:57.139
+!MESSAGE No valid Android XML Editor Delegate found for file /CheevedIT_tasks/WebContent/WEB-INF/appengine-web.xml [Res null, type null]
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2016-07-19 11:35:10.037
+!MESSAGE No projects found for [C:\CPD200\CPD200-Lab03-Java\CheevedIT_tasks\WebContent\WEB-INF\appengine-web.xml]
+
+!ENTRY com.android.ide.eclipse.adt 1 0 2016-07-21 05:29:13.402
+!MESSAGE No valid Android XML Editor Delegate found for file /CheevedIT_default/WebContent/WEB-INF/web.xml [Res null, type null]
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2016-07-21 05:32:02.217
+!MESSAGE No projects found for [C:\CPD200\CPD200-Lab03-Java\CheevedIT_default\WebContent\WEB-INF\web.xml]
+
+!ENTRY com.android.ide.eclipse.adt 1 0 2016-07-21 05:38:13.403
+!MESSAGE No valid Android XML Editor Delegate found for file /CheevedIT_default/WebContent/WEB-INF/appengine-web.xml [Res null, type null]
+
+!ENTRY com.android.ide.eclipse.adt 1 0 2016-07-21 05:38:16.224
+!MESSAGE No valid Android XML Editor Delegate found for file /CheevedIT_default/WebContent/WEB-INF/web.xml [Res null, type null]
+
+!ENTRY com.android.ide.eclipse.adt 1 0 2016-07-21 05:38:22.818
+!MESSAGE No valid Android XML Editor Delegate found for file /CheevedIT_tasks/WebContent/WEB-INF/web.xml [Res null, type null]
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2016-07-21 05:39:15.861
+!MESSAGE No projects found for [C:\CPD200\CPD200-Lab03-Java\CheevedIT_default\WebContent\WEB-INF\web.xml]
+
+!ENTRY com.android.ide.eclipse.adt 1 0 2016-07-21 05:42:27.337
+!MESSAGE No valid Android XML Editor Delegate found for file /CheevedIT_tasks/WebContent/WEB-INF/appengine-web.xml [Res null, type null]
+
+!ENTRY com.android.ide.eclipse.adt 1 0 2016-07-21 05:49:21.939
+!MESSAGE No valid Android XML Editor Delegate found for file /CheevedIT_default/WebContent/WEB-INF/web.xml [Res null, type null]
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2016-07-21 05:50:19.429
+!MESSAGE No projects found for [C:\CPD200\CPD200-Lab03-Java\CheevedIT_default\WebContent\WEB-INF\web.xml]
+
+!ENTRY com.android.ide.eclipse.adt 1 0 2016-07-21 05:53:11.077
+!MESSAGE No valid Android XML Editor Delegate found for file /CheevedIT_tasks/WebContent/WEB-INF/web.xml [Res null, type null]
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2016-07-21 05:57:34.744
+!MESSAGE No projects found for [C:\CPD200\CPD200-Lab03-Java\CheevedIT_tasks\WebContent\WEB-INF\web.xml]
+
+!ENTRY com.google.appengine.eclipse.wtp 4 0 2016-07-21 06:02:35.333
+!MESSAGE Error executing App Engine remote operation. See console output for more information.
+!SESSION 2016-07-21 06:07:47.117 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.version=1.7.0_80
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY com.android.ide.eclipse.adt 1 0 2016-07-21 06:08:17.792
+!MESSAGE No valid Android XML Editor Delegate found for file /CheevedIT_tasks/WebContent/WEB-INF/web.xml [Res null, type null]
+
+!ENTRY org.eclipse.egit.ui 2 0 2016-07-21 06:08:54.872
+!MESSAGE Warning: EGit couldn't detect the installation path "gitPrefix" of native Git. Hence EGit can't respect system level
+Git settings which might be configured in ${gitPrefix}/etc/gitconfig under the native Git installation directory.
+The most important of these settings is core.autocrlf. Git for Windows by default sets this parameter to true in
+this system level configuration. The Git installation location can be configured on the
+Team > Git > Configuration preference page's 'System Settings' tab.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.egit.ui 2 0 2016-07-21 06:08:54.888
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\cpd200'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2016-07-21 06:09:14.559 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.version=1.7.0_79
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY com.android.ide.eclipse.adt 1 0 2016-07-21 06:09:26.742
+!MESSAGE No valid Android XML Editor Delegate found for file /CheevedIT_tasks/WebContent/WEB-INF/web.xml [Res null, type null]
+
+!ENTRY org.eclipse.egit.ui 2 0 2016-07-21 06:09:32.226
+!MESSAGE Warning: EGit couldn't detect the installation path "gitPrefix" of native Git. Hence EGit can't respect system level
+Git settings which might be configured in ${gitPrefix}/etc/gitconfig under the native Git installation directory.
+The most important of these settings is core.autocrlf. Git for Windows by default sets this parameter to true in
+this system level configuration. The Git installation location can be configured on the
+Team > Git > Configuration preference page's 'System Settings' tab.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.egit.ui 2 0 2016-07-21 06:09:32.492
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\cpd200'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY com.google.appengine.eclipse.wtp 4 0 2016-07-21 06:10:43.183
+!MESSAGE Cannot start App Engine Server, server port ServerPort [Dev Server Port, server, 8888, HTTP] is not available.
+
+!ENTRY com.google.appengine.eclipse.wtp 4 0 2016-07-21 06:11:11.548
+!MESSAGE Cannot start App Engine Server, server port ServerPort [Dev Server Port, server, 8888, HTTP] is not available.
+
+!ENTRY com.google.appengine.eclipse.wtp 4 0 2016-07-21 06:11:28.409
+!MESSAGE Cannot start App Engine Server, server port ServerPort [Dev Server Port, server, 8888, HTTP] is not available.
+
+!ENTRY com.google.appengine.eclipse.wtp 4 0 2016-07-21 06:12:07.588
+!MESSAGE Error executing App Engine remote operation. See console output for more information.
+!SESSION 2016-07-21 06:13:18.735 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.version=1.7.0_79
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY com.android.ide.eclipse.adt 1 0 2016-07-21 06:13:30.217
+!MESSAGE No valid Android XML Editor Delegate found for file /CheevedIT_tasks/WebContent/WEB-INF/web.xml [Res null, type null]
+
+!ENTRY org.eclipse.egit.ui 2 0 2016-07-21 06:13:34.123
+!MESSAGE Warning: EGit couldn't detect the installation path "gitPrefix" of native Git. Hence EGit can't respect system level
+Git settings which might be configured in ${gitPrefix}/etc/gitconfig under the native Git installation directory.
+The most important of these settings is core.autocrlf. Git for Windows by default sets this parameter to true in
+this system level configuration. The Git installation location can be configured on the
+Team > Git > Configuration preference page's 'System Settings' tab.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.egit.ui 2 0 2016-07-21 06:13:34.404
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\cpd200'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY com.android.ide.eclipse.adt 1 0 2016-07-21 06:26:04.744
+!MESSAGE No valid Android XML Editor Delegate found for file /CheevedIT_default/WebContent/WEB-INF/dispatch.xml [Res null, type null]
+
+!ENTRY com.android.ide.eclipse.adt 1 0 2016-07-21 06:30:59.905
+!MESSAGE No valid Android XML Editor Delegate found for file /CheevedIT_default/WebContent/WEB-INF/dispatch.xml [Res null, type null]
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2016-07-21 06:31:39.893
+!MESSAGE No projects found for [C:\CPD200\CPD200-Lab03-Java\CheevedIT_default\WebContent\WEB-INF\dispatch.xml]
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2016-07-21 06:46:32.876
+!MESSAGE No projects found for [C:\CPD200\CPD200-Lab03-Java\CheevedIT_default\WebContent\WEB-INF\dispatch.xml]
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2016-07-21 06:47:46.114
+!MESSAGE No projects found for [C:\CPD200\CPD200-Lab03-Java\CheevedIT_default\WebContent\WEB-INF\dispatch.xml]
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2016-07-21 06:48:20.720
+!MESSAGE No projects found for [C:\CPD200\CPD200-Lab03-Java\CheevedIT_default\WebContent\WEB-INF\dispatch.xml]
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2016-07-21 06:48:59.497
+!MESSAGE No projects found for [C:\CPD200\CPD200-Lab03-Java\CheevedIT_default\WebContent\WEB-INF\dispatch.xml]
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2016-07-21 06:49:10.088
+!MESSAGE No projects found for [C:\CPD200\CPD200-Lab03-Java\CheevedIT_default\WebContent\WEB-INF\dispatch.xml]
+!SESSION 2016-07-25 06:47:12.397 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.version=1.7.0_79
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY com.android.ide.eclipse.adt 1 0 2016-07-25 06:47:27.355
+!MESSAGE No valid Android XML Editor Delegate found for file /CheevedIT_default/WebContent/WEB-INF/dispatch.xml [Res null, type null]
+
+!ENTRY org.eclipse.egit.ui 2 0 2016-07-25 06:47:33.011
+!MESSAGE Warning: EGit couldn't detect the installation path "gitPrefix" of native Git. Hence EGit can't respect system level
+Git settings which might be configured in ${gitPrefix}/etc/gitconfig under the native Git installation directory.
+The most important of these settings is core.autocrlf. Git for Windows by default sets this parameter to true in
+this system level configuration. The Git installation location can be configured on the
+Team > Git > Configuration preference page's 'System Settings' tab.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.egit.ui 2 0 2016-07-25 06:47:33.183
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\cpd200'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY com.android.ide.eclipse.adt 1 0 2016-07-25 06:49:24.125
+!MESSAGE No valid Android XML Editor Delegate found for file /CheevedIT_default/WebContent/WEB-INF/appengine-web.xml [Res null, type null]
+
+!ENTRY com.android.ide.eclipse.adt 1 0 2016-07-25 06:50:50.298
+!MESSAGE No valid Android XML Editor Delegate found for file /CheevedIT_endpoints/WebContent/WEB-INF/web.xml [Res null, type null]
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2016-07-25 07:00:16.318
+!MESSAGE No projects found for [C:\CPD200\CPD200-Lab04-Java\CheevedIT_endpoints\WebContent\WEB-INF\web.xml]
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2016-07-25 07:01:31.395
+!MESSAGE No projects found for [C:\CPD200\CPD200-Lab04-Java\CheevedIT_endpoints\WebContent\WEB-INF\web.xml]
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2016-07-25 07:06:43.484
+!MESSAGE No projects found for [C:\CPD200\CPD200-Lab04-Java\CheevedIT_endpoints\WebContent\WEB-INF\web.xml]
+
+!ENTRY org.eclipse.wst.server.core 4 0 2016-07-25 07:06:46.914
+!MESSAGE Server Google App Engine (1.9.38) at localhost failed to start.
+
+!ENTRY com.android.ide.eclipse.adt 1 0 2016-07-25 07:07:17.011
+!MESSAGE No valid Android XML Editor Delegate found for file /CheevedIT_default/WebContent/WEB-INF/appengine-web.xml [Res null, type null]
+
+!ENTRY org.eclipse.wst.server.core 4 0 2016-07-25 07:08:18.776
+!MESSAGE Server Google App Engine (1.9.38) at localhost failed to start.
+!SESSION 2016-07-26 11:09:19.723 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.version=1.7.0_79
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2016-07-26 11:11:09.447
+!MESSAGE Warning: EGit couldn't detect the installation path "gitPrefix" of native Git. Hence EGit can't respect system level
+Git settings which might be configured in ${gitPrefix}/etc/gitconfig under the native Git installation directory.
+The most important of these settings is core.autocrlf. Git for Windows by default sets this parameter to true in
+this system level configuration. The Git installation location can be configured on the
+Team > Git > Configuration preference page's 'System Settings' tab.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.egit.ui 2 0 2016-07-26 11:11:09.463
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\cpd200'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY com.android.ide.eclipse.adt 1 0 2016-07-26 11:12:34.155
+!MESSAGE No valid Android XML Editor Delegate found for file /CheevedIT_endpoints/WebContent/WEB-INF/web.xml [Res null, type null]
+
+!ENTRY com.android.ide.eclipse.adt 1 0 2016-07-27 05:23:06.608
+!MESSAGE No valid Android XML Editor Delegate found for file /CheevedIT_default/WebContent/WEB-INF/web.xml [Res null, type null]
+
+!ENTRY com.android.ide.eclipse.adt 1 0 2016-07-27 05:23:50.762
+!MESSAGE No valid Android XML Editor Delegate found for file /CheevedIT_default/WebContent/WEB-INF/web.xml [Res null, type null]
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2016-07-27 05:25:20.323
+!MESSAGE No projects found for [C:\CPD200\CPD200-Lab05-Java\CheevedIT_default\WebContent\WEB-INF\web.xml]
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2016-07-27 05:27:49.892
+!MESSAGE No projects found for [C:\CPD200\CPD200-Lab05-Java\CheevedIT_default\WebContent\WEB-INF\web.xml]
+
+!ENTRY com.android.ide.eclipse.adt 1 0 2016-07-27 05:29:39.762
+!MESSAGE No valid Android XML Editor Delegate found for file /CheevedIT_default/WebContent/WEB-INF/appengine-web.xml [Res null, type null]
+
+!ENTRY com.android.ide.eclipse.adt 1 0 2016-07-27 05:30:01.410
+!MESSAGE No valid Android XML Editor Delegate found for file /CheevedIT_default/WebContent/WEB-INF/dispatch.xml [Res null, type null]
+!SESSION 2016-07-27 05:50:22.547 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.version=1.7.0_79
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY com.android.ide.eclipse.adt 1 0 2016-07-27 05:50:43.057
+!MESSAGE No valid Android XML Editor Delegate found for file /CheevedIT_default/WebContent/WEB-INF/web.xml [Res null, type null]
+
+!ENTRY org.eclipse.egit.ui 2 0 2016-07-27 05:50:48.260
+!MESSAGE Warning: EGit couldn't detect the installation path "gitPrefix" of native Git. Hence EGit can't respect system level
+Git settings which might be configured in ${gitPrefix}/etc/gitconfig under the native Git installation directory.
+The most important of these settings is core.autocrlf. Git for Windows by default sets this parameter to true in
+this system level configuration. The Git installation location can be configured on the
+Team > Git > Configuration preference page's 'System Settings' tab.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.egit.ui 2 0 2016-07-27 05:50:48.510
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\cpd200'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.wst.sse.ui 4 4 2016-07-27 05:51:29.957
+!MESSAGE null
+!STACK 0
+java.lang.NullPointerException
+	at com.android.ide.eclipse.adt.internal.editors.AndroidContentAssist.getDescriptor(AndroidContentAssist.java:867)
+	at com.android.ide.eclipse.adt.internal.editors.AndroidContentAssist.getChoicesForElement(AndroidContentAssist.java:301)
+	at com.android.ide.eclipse.adt.internal.editors.AndroidContentAssist.computeNonAttributeProposals(AndroidContentAssist.java:199)
+	at com.android.ide.eclipse.adt.internal.editors.AndroidContentAssist.computeCompletionProposals(AndroidContentAssist.java:184)
+	at org.eclipse.wst.sse.ui.internal.contentassist.CompoundContentAssistProcessor.computeCompletionProposals(CompoundContentAssistProcessor.java:127)
+	at org.eclipse.jface.text.contentassist.ContentAssistant$5.run(ContentAssistant.java:1904)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.jface.text.contentassist.ContentAssistant.computeCompletionProposals(ContentAssistant.java:1902)
+	at org.eclipse.jface.text.contentassist.CompletionProposalPopup.computeProposals(CompletionProposalPopup.java:573)
+	at org.eclipse.jface.text.contentassist.CompletionProposalPopup.access$16(CompletionProposalPopup.java:570)
+	at org.eclipse.jface.text.contentassist.CompletionProposalPopup$2.run(CompletionProposalPopup.java:505)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:70)
+	at org.eclipse.jface.text.contentassist.CompletionProposalPopup.showProposals(CompletionProposalPopup.java:499)
+	at org.eclipse.jface.text.contentassist.ContentAssistant$2.run(ContentAssistant.java:384)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:136)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4147)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3764)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$9.run(PartRenderingEngine.java:1151)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1032)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:148)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:636)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:579)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:150)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:135)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:380)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:235)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:648)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:603)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
+	at org.eclipse.equinox.launcher.Main.main(Main.java:1438)
+
+!ENTRY org.eclipse.wst.sse.ui 4 4 2016-07-27 05:51:30.800
+!MESSAGE null
+!STACK 0
+java.lang.NullPointerException
+	at com.android.ide.eclipse.adt.internal.editors.AndroidContentAssist.getDescriptor(AndroidContentAssist.java:867)
+	at com.android.ide.eclipse.adt.internal.editors.AndroidContentAssist.getChoicesForElement(AndroidContentAssist.java:301)
+	at com.android.ide.eclipse.adt.internal.editors.AndroidContentAssist.computeNonAttributeProposals(AndroidContentAssist.java:199)
+	at com.android.ide.eclipse.adt.internal.editors.AndroidContentAssist.computeCompletionProposals(AndroidContentAssist.java:184)
+	at org.eclipse.wst.sse.ui.internal.contentassist.CompoundContentAssistProcessor.computeCompletionProposals(CompoundContentAssistProcessor.java:127)
+	at org.eclipse.jface.text.contentassist.ContentAssistant$5.run(ContentAssistant.java:1904)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.jface.text.contentassist.ContentAssistant.computeCompletionProposals(ContentAssistant.java:1902)
+	at org.eclipse.jface.text.contentassist.CompletionProposalPopup.computeProposals(CompletionProposalPopup.java:573)
+	at org.eclipse.jface.text.contentassist.CompletionProposalPopup.computeFilteredProposals(CompletionProposalPopup.java:1495)
+	at org.eclipse.jface.text.contentassist.CompletionProposalPopup.access$4(CompletionProposalPopup.java:1484)
+	at org.eclipse.jface.text.contentassist.CompletionProposalPopup$1.run(CompletionProposalPopup.java:382)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:136)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4147)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3764)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$9.run(PartRenderingEngine.java:1151)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1032)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:148)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:636)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:579)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:150)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:135)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:380)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:235)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:648)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:603)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
+	at org.eclipse.equinox.launcher.Main.main(Main.java:1438)
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2016-07-27 05:51:54.415
+!MESSAGE No projects found for [C:\CPD200\CPD200-Lab05-Java\CheevedIT_default\WebContent\WEB-INF\web.xml]
+
+!ENTRY org.eclipse.jst.server.core 4 0 2016-07-27 05:53:39.931
+!MESSAGE Could not launch in profiling mode because no profilers are configured.
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2016-07-27 05:55:56.690
+!MESSAGE No projects found for [C:\CPD200\CPD200-Lab05-Java\CheevedIT_default\WebContent\WEB-INF\web.xml]
+
+!ENTRY com.android.ide.eclipse.adt 1 0 2016-07-27 05:56:37.505
+!MESSAGE No valid Android XML Editor Delegate found for file /CheevedIT_default/WebContent/WEB-INF/web.xml [Res null, type null]
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2016-07-27 05:56:54.044
+!MESSAGE No projects found for [C:\CPD200\CPD200-Lab05-Java\CheevedIT_default\WebContent\WEB-INF\web.xml]
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2016-07-27 05:59:15.137
+!MESSAGE No projects found for [C:\CPD200\CPD200-Lab05-Java\CheevedIT_default\WebContent\WEB-INF\web.xml]
+!SESSION 2016-07-28 09:45:01.338 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.version=1.7.0_79
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY com.android.ide.eclipse.adt 1 0 2016-07-28 09:46:24.880
+!MESSAGE No valid Android XML Editor Delegate found for file /CheevedIT_default/WebContent/WEB-INF/web.xml [Res null, type null]
+
+!ENTRY org.eclipse.egit.ui 2 0 2016-07-28 09:47:05.044
+!MESSAGE Warning: EGit couldn't detect the installation path "gitPrefix" of native Git. Hence EGit can't respect system level
+Git settings which might be configured in ${gitPrefix}/etc/gitconfig under the native Git installation directory.
+The most important of these settings is core.autocrlf. Git for Windows by default sets this parameter to true in
+this system level configuration. The Git installation location can be configured on the
+Team > Git > Configuration preference page's 'System Settings' tab.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.egit.ui 2 0 2016-07-28 09:47:05.059
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\cpd200'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2016-07-28 09:57:59.724 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.version=1.7.0_79
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2016-07-28 09:58:21.914
+!MESSAGE Warning: EGit couldn't detect the installation path "gitPrefix" of native Git. Hence EGit can't respect system level
+Git settings which might be configured in ${gitPrefix}/etc/gitconfig under the native Git installation directory.
+The most important of these settings is core.autocrlf. Git for Windows by default sets this parameter to true in
+this system level configuration. The Git installation location can be configured on the
+Team > Git > Configuration preference page's 'System Settings' tab.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.egit.ui 2 0 2016-07-28 09:58:22.024
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\cpd200'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2016-07-28 09:59:26.542 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.version=1.7.0_79
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2016-07-28 09:59:44.006
+!MESSAGE Warning: EGit couldn't detect the installation path "gitPrefix" of native Git. Hence EGit can't respect system level
+Git settings which might be configured in ${gitPrefix}/etc/gitconfig under the native Git installation directory.
+The most important of these settings is core.autocrlf. Git for Windows by default sets this parameter to true in
+this system level configuration. The Git installation location can be configured on the
+Team > Git > Configuration preference page's 'System Settings' tab.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.egit.ui 2 0 2016-07-28 09:59:44.256
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\cpd200'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2016-07-28 10:04:49.348 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.version=1.7.0_79
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2016-07-28 10:05:12.250
+!MESSAGE Warning: EGit couldn't detect the installation path "gitPrefix" of native Git. Hence EGit can't respect system level
+Git settings which might be configured in ${gitPrefix}/etc/gitconfig under the native Git installation directory.
+The most important of these settings is core.autocrlf. Git for Windows by default sets this parameter to true in
+this system level configuration. The Git installation location can be configured on the
+Team > Git > Configuration preference page's 'System Settings' tab.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.egit.ui 2 0 2016-07-28 10:05:12.297
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\cpd200'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2016-07-28 10:06:35.244 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.version=1.7.0_79
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2016-07-28 10:06:54.042
+!MESSAGE Warning: EGit couldn't detect the installation path "gitPrefix" of native Git. Hence EGit can't respect system level
+Git settings which might be configured in ${gitPrefix}/etc/gitconfig under the native Git installation directory.
+The most important of these settings is core.autocrlf. Git for Windows by default sets this parameter to true in
+this system level configuration. The Git installation location can be configured on the
+Team > Git > Configuration preference page's 'System Settings' tab.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.egit.ui 2 0 2016-07-28 10:06:54.323
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\cpd200'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY com.android.ide.eclipse.adt 1 0 2016-07-28 10:26:53.268
+!MESSAGE No valid Android XML Editor Delegate found for file /CheevedIT_default/WebContent/WEB-INF/appengine-web.xml [Res null, type null]
+
+!ENTRY com.android.ide.eclipse.adt 1 0 2016-07-28 10:32:23.650
+!MESSAGE No valid Android XML Editor Delegate found for file /CheevedIT_default/WebContent/WEB-INF/appengine-web.xml [Res null, type null]
+!SESSION 2016-08-01 09:33:17.151 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.version=1.7.0_79
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2016-08-01 09:33:35.735
+!MESSAGE Warning: EGit couldn't detect the installation path "gitPrefix" of native Git. Hence EGit can't respect system level
+Git settings which might be configured in ${gitPrefix}/etc/gitconfig under the native Git installation directory.
+The most important of these settings is core.autocrlf. Git for Windows by default sets this parameter to true in
+this system level configuration. The Git installation location can be configured on the
+Team > Git > Configuration preference page's 'System Settings' tab.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.egit.ui 2 0 2016-08-01 09:33:36.125
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\cpd200'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.

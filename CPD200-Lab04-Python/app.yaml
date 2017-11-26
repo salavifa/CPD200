@@ -1,0 +1,17 @@
+application: cpd200-nuggets
+version: alpha-002
+module: default
+runtime: python27
+api_version: 1
+threadsafe: true
+
+handlers:
+- url: /css
+  static_dir: css
+  
+- url: /.*
+  script: main.app
+
+libraries:
+- name: jinja2
+  version: latest
